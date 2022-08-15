@@ -1,3 +1,3 @@
 # rpc_server
-bash build.sh 
-./main 
+#bash build.sh 
+#./main 
